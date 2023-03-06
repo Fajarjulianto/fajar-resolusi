@@ -1,0 +1,5 @@
+PROJECT SEDERHANA YANG AKAN COBA DIBUAT
+
+-kalkulator
+-to do list
+-CRUD

@@ -4,3 +4,4 @@ PROJECT SEDERHANA YANG AKAN COBA DIBUAT
 -to do list
 -portfolio
 -CRUD
+-game simple

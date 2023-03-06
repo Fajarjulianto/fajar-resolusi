@@ -3,3 +3,5 @@ Resolusi fajar Julianto
 -mencoba membuat project kecil-kecilan
 -membuat project web yang bermanfaat
 -menghosting web yang sudah dibuat
+-menawarkan jasa pembuatan website
+-membuat project web real berdasarkan permintaan client
